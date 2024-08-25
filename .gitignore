@@ -1,0 +1,19 @@
+# Ignore all .log files
+*.log
+
+# Ignore the target directory (for Maven projects)
+/target/
+
+# Ignore IDE-specific directories (e.g., IntelliJ IDEA)
+.idea/
+*.iml
+
+# Ignore operating system-specific files
+.DS_Store
+Thumbs.db
+
+test-output/
+.classpath
+.project
+.settings/
+*.class
